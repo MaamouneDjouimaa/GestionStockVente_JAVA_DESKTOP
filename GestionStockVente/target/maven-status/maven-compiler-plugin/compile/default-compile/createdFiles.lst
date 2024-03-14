@@ -1,0 +1,9 @@
+Package\Paiement.class
+Package\Promotion.class
+Package\Commande.class
+Package\Produit.class
+Package\Vendeur.class
+Package\Stock.class
+Package\Client.class
+Package\InformationsPaiement.class
+Package\GestionStockVente.class
